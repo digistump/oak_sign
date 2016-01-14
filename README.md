@@ -1,3 +1,5 @@
+#DEPRECATED DEPRECATEDDEPRECATED DEPRECATED  
+
 #oak_sign
 
 ##oak_sign v1 usage: oak_sign (filename) [optional: system or unsign]
